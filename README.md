@@ -1,2 +1,2 @@
 # Learning
-First Python / Data Science projects worked on while working towards IBM's "IBM Data Science Professional" certification
+These are my first Python / Data Science projects created while working towards the "IBM Data Science Professional" certification
